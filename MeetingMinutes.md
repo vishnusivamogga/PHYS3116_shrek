@@ -61,3 +61,40 @@ Both of us have spent a while resolving a merge conflict.
 4. To avoid merge conflicts in the future, ensure you use the procedure: PULL, then EDIT, then STAGE, then COMMIT, then PUSH. 
 
 
+## Meeting 3: 28/09/2025 9pm - sunday evening meeting
+
+**Meeting Duration:** 
+
+1 hour and 15 minutes
+
+**Meeting attendants:** Sarvrpreet, Vishnu, William
+
+**Agenda**
+
+1. Explain the assignment to William and our progress on it so far
+2. Help William set up his github repo and teach him pushing ettiquette
+3. Assign William a part of the assignment and set deadlines
+4. Discuss the applications of the HB column of the Vandenburg table for making the age-metallicity selection list even better.
+
+**Discussions and Decisions**
+
+William is to work on the big question of what the list of accretors imply for the formation of the milky way. 
+1. Have these globular clusters existed before the Milky Way? If so, how long?
+2. Why are there in-situ vs accreted clusters? 
+3. What are some tests we could do to verify our theory of milky way formation in light of our accretors list? 
+
+William's coding component will involve actually implementing some of these tests. 
+
+Another discussion item was the possibility of using the vandenberg HB column, plotting it by metallicity and colour coding by age. By doing this, we could filter out between older, low metallicity, more evolved clusters to younger, low metallicity less evolved stars.
+
+**Action Items**
+
+1. William should read some papers and figure out exactly what kind of tests we should implement.
+2. Sarv should attempt to use the HB column and make a list of accretion candidates the same way Vishnu did
+3. Vishnu should research the implications of spin up and spin down and see if he can refine the accretion candidates he has even more with that. 
+
+
+
+
+
+
