@@ -94,6 +94,30 @@ Another discussion item was the possibility of using the vandenberg HB column, p
 3. Vishnu should research the implications of spin up and spin down and see if he can refine the accretion candidates he has even more with that. 
 
 
+## Meeting 4: Thursday evening meeting (10pm) 2/10/2025
+
+**Meeting Duration:** 30 minutes
+
+**Meeting Attendants:** Sav, Vishnu, William
+
+**Agenda**
+1. Give William some guidance on what he needs to do as he was still a bit confused
+2. Help Sarv figure out what he could colour his age-metallicity plot by to understand the age-metallicity trends with dynamical trends.
+3. Showcase some papers and see how they tackled the problem of the Milky Way's formation history
+
+**Discussions and Decisions**
+
+Sarv will use Vishnu's Galpy code to colour by various dynamical parameters
+William will more closely investigate one of the papers we have found and see if he can generate a plot by tomorrow (friday)
+
+Vishnu will continue trying to refine his dynamical cuts and see if there's ways to quantify its effectiveness as opposed to other cuts. 
+
+**Action Items:** 
+1. Sarv will continue refining his age-metallicity plots
+2. William should come up with some tests to gauge the formation history of the MW by early next week
+3. Vishnu can maybe work on tying it all together conceptually and piecing together why the data looks the way it does. 
+
+
 
 
 
