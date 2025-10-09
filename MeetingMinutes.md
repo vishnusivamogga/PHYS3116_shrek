@@ -118,7 +118,25 @@ Vishnu will continue trying to refine his dynamical cuts and see if there's ways
 3. Vishnu can maybe work on tying it all together conceptually and piecing together why the data looks the way it does. 
 
 
+## Meeting 5: Thursday in-class meeting (10pm) 2/10/2025
 
+**Meeting Duration:** 15 minutes
+
+**Meeting Attendants:** Vishnu, Sarvpreet
+
+**Agenda**
+1. Discuss progress so far for Sarv and help him with the age-metallicity plots
+2. Discuss on William's progress
+
+**Discussions and decisions**
+William has unfortunately not contributed too much code or done much for us to understand the formation theory section. Vishnu is to help William/do his part a little bit. 
+
+Vishnu is to look at any other dynamical tests to run and corroborate with Sarv on the galpy integration to finish off the age-metallicity section
+
+**Action items**
+1. Vishnu should keep tying it all together conceptually, read up on William's section and help Sarv with the galpy integration
+2. Sarv should continue with the age-metallicity plot work and work on combining Vishnu's dynamical candidates. He should also do a polynomial fit to see the general trend of the two stars.
+3. William should attempt to gain more of a grasp on the tests he's meant to be running and the code he is to be writing. 
 
 
 
